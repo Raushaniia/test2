@@ -12,11 +12,11 @@ The main components of the KPI Chart by Akvelon are the categorical field XAxis 
 
 
 
-- · Legend allows setting the line name as a legend of the visual. You need to have separate column in your dataset with names to lines and drop it to this field bucket. Ifvalues ​​are not entered in this bucket, then all values ​​for the lines will be combined to one common line.
+-  Legend allows setting the line name as a legend of the visual. You need to have separate column in your dataset with names to lines and drop it to this field bucket. Ifvalues ​​are not entered in this bucket, then all values ​​for the lines will be combined to one common line.
 
-- ·  Region max/min value determines the minimum and maximum values of the horizontal area relative to the left Y axis. There are five such regions in total. Values ​​canbe changed using both the field buckets and the formatting options panel.
+-   Region max/min value determines the minimum and maximum values of the horizontal area relative to the left Y axis. There are five such regions in total. Values ​​canbe changed using both the field buckets and the formatting options panel.
 
-- ·  Tooltips allows selecting the values to display tooltips.
+-   Tooltips allows selecting the values to display tooltips.
 
 The  visual has a wide variety of formatting options. Additionally to standard features of fully customizable text, color, sizes for each visual’s item, KPI Chart by Akvelon also allows to customize the minimum and maximum value for both vertical axes and configure the format of numerical values for them. The format panel also includes fields for adjusting the border and color of the horizontal regions.
 
